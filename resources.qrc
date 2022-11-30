@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lorem.txt</file>
+    </qresource>
+</RCC>
